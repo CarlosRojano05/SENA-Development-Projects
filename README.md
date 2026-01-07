@@ -1,32 +1,36 @@
-¡Bienvenido! Este repositorio contiene tres proyectos integradores desarrollados durante mi formación técnica en el **SENA**. Estos proyectos representan mi base en el desarrollo de software y mi transición hacia el mundo del **Quality Assurance (QA)**.
+# Full-Stack Development Foundations - SENA 🇨🇴
 
-## 📂 Proyectos Incluidos
+Este repositorio compila mis proyectos integradores desarrollados durante mi formación técnica en el **SENA**. Estos proyectos representan mi base sólida en el desarrollo de software y mi capacidad para entender la arquitectura interna de las aplicaciones que hoy pruebo como **QA**.
 
-### 1. Sistema de Gestión de Usuarios (ModeloWebUsuario)
-* **Descripción:** Prototipo enfocado en el manejo de perfiles y lógica de autenticación.
-* **Tecnologías:** HTML5, CSS3, JavaScript.
-* **Key Skill:** Estructuración de datos y validaciones de formularios en el frontend.
 
-### 2. Catálogo de Productos (ModeloWebProductos)
-* **Descripción:** Aplicación para la visualización y gestión de inventario.
-* **Tecnologías:** Arquitectura basada en modelos web.
-* **Key Skill:** Manejo de objetos, arreglos y renderizado dinámico de contenido.
 
-### 3. Página Web de Productos (Prototipo Aceites)
-* **Descripción:** Landing page funcional con enfoque en experiencia de usuario (UX) y diseño responsivo.
-* **Key Skill:** Maquetación avanzada y estilos personalizados.
+##  Stack Tecnológico
+- **Backend:** Python (Arquitectura REST API), Controladores y Modelado de datos.
+- **Frontend:** HTML5, CSS3, JavaScript.
+- **Base de Datos:** SQL (Diseño de esquemas y scripts relacionales).
 
----
 
-## 🛠️ ¿Por qué esto me hace un mejor QA?
 
-Tener experiencia desarrollando estos proyectos me permite:
-1. **Entender el Código Fuente:** No solo reporto el error, entiendo la lógica (HTML/CSS/JS) que lo causa.
-2. **Pruebas de Caja Blanca:** Puedo realizar un análisis más profundo de las estructuras de datos.
-3. **Comunicación Técnica:** Puedo hablar el mismo lenguaje que los desarrolladores para agilizar la corrección de bugs.
+##  Estructura de Proyectos
 
----
+1. **API de Gestión de Productos (`ModeloWebProductos`):** CRUD completo desarrollado en Python con persistencia de datos en SQL. Incluye una interfaz frontend para operaciones en tiempo real.
+   
+2. **Sistema de Usuarios (`ModeloWebUsuario`):** Módulo de autenticación y gestión de usuarios mediante API Python, con lógica de modelos para la administración de perfiles.
 
-## 📬 Contacto
-* **LinkedIn:** [Tu Enlace Aquí]
-* **Portafolio de QA (Drive):** [Tu Enlace al Drive de QA Aquí]
+3. **Prototipo Web Comercial (`PAGINAWEB_DEL_PROTOTIPO`):** Landing page funcional con diseño responsivo y maquetación avanzada enfocada en la experiencia de usuario.
+
+
+
+##  ¿Cómo aporta esto a mi perfil de QA?
+
+Haber desarrollado estos proyectos me otorga una ventaja competitiva en el área de **Quality Assurance**:
+
+* **Análisis de Caja Blanca:** Puedo leer y comprender el código fuente (Python/JS) para identificar la causa raíz de los defectos.
+* **Pruebas de Base de Datos:** Mi conocimiento en SQL me permite validar la integridad de los datos directamente en las tablas.
+* **Dominio de APIs:** Entiendo el funcionamiento interno de las APIs (Request/Response) porque he construido mis propios controladores.
+* **Comunicación con Devs:** Hablo el mismo lenguaje técnico, lo que facilita el reporte y la resolución de errores en el equipo.
+
+
+
+##  Contacto
+* **LinkedIn:** [LINK_A_TU_LINKEDIN]
