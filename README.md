@@ -33,4 +33,4 @@ Haber desarrollado estos proyectos me otorga una ventaja competitiva en el área
 
 
 ##  Contacto
-* **LinkedIn:** [LINK_A_TU_LINKEDIN]
+* **LinkedIn:** https://www.linkedin.com/in/carlos-manuel-rojano-camargo-082602246/
